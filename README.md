@@ -1,7 +1,7 @@
-📊Superstore Sales Analysis – Power BI Dashboard
+# 📊Superstore Sales Analysis – Power BI Dashboard
 This project presents a comprehensive Power BI dashboard built using the SampleSuperstore.csv dataset. It aims to extract valuable business insights to help drive data-backed decisions for sales and operations.
 
-📁 Project Overview
+# 📁 Project Overview
 This Power BI project simulates a real-world business intelligence scenario. Using data from a fictional superstore, the analysis dives into:
 
 🧾 Sales and Profit performance
@@ -14,7 +14,7 @@ This Power BI project simulates a real-world business intelligence scenario. Usi
 
 🎯 Customer segments and profitability
 
-✅ Task Highlights
+# ✅ Task Highlights
 📌 Data Cleaning & Preparation using Power Query
 
 📊 Data Modeling & Relationships across dimensions
@@ -25,7 +25,7 @@ This Power BI project simulates a real-world business intelligence scenario. Usi
 
 📉 Insights and Recommendations for business improvement
 
-⚙️ Tools & Technologies
+# ⚙️ Tools & Technologies
 Microsoft Power BI – For interactive dashboards and data storytelling
 
 Power Query – To clean and transform raw data
@@ -34,7 +34,7 @@ DAX (Data Analysis Expressions) – For calculated fields and KPIs
 
 Excel/CSV – As the data source
 
-📌 Key Dashboard Insights
+# 📌 Key Dashboard Insights
 🔹 Sales and profit trends over time
 
 🔹 Profitability by Region, State, and City
@@ -45,7 +45,7 @@ Excel/CSV – As the data source
 
 🔹 Customer segment analysis with sales contribution
 
-🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 Understanding the BI project lifecycle
 
 Translating raw data into visual insights
@@ -56,7 +56,7 @@ Practicing hands-on DAX formulas and relationships
 
 Building executive-level dashboards
 
-📎 Additional Resources
+# 📎 Additional Resources
 Dataset Source: Sample Superstore Dataset
 
 Learn Power BI: Microsoft Power BI Docs
